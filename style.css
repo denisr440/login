@@ -7,4 +7,6 @@ div{
     background-color: rgb(rgb(111, 216, 216), green, blue);
     position:absolute;
     top:50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
 }
